@@ -24,16 +24,16 @@ AI Chat is a powerful, all-in-one AI conversation platform designed to enhance y
 ## System Requirements
 
 - **Operating System**: Windows 10 or above
-- **Framework**: .NET Framework 4.5 or higher
+- **Framework**: .NET Framework 4.7.2 or higher
 
 ## Download and Run
 
 1. **Download AI Chat**  
-   [Download ZIP Here](INSERT_YOUR_DOWNLOAD_LINK_HERE)
+   [Download ZIP Here](https://github.com/NarendraDwivedi/aichat/releases/tag/release)
 
 2. **Extract and Run**  
-   - Extract the downloaded ZIP file (`AI_Chat.zip`).  
-   - Open the extracted folder and double-click `AI_Chat.exe` to run the application.  
+   - Extract the downloaded ZIP file (`AI Chat.zip`).  
+   - Open the extracted folder and double-click `AI Chat.exe` to run the application.  
    - No installation required!
 
 ## Usage
@@ -45,14 +45,14 @@ AI Chat is a powerful, all-in-one AI conversation platform designed to enhance y
 2. **Generate Images**  
    - Choose an image generation model like MidJourney.  
    - Specify dimensions (e.g., 800x600) and generate your image.  
-   - Double-click the output to copy it.
+   - Double-click the image to save it.
 
 3. **Hear Voice Responses**  
    - Select an audio-capable model like Hypnosis-Tracy.  
    - Ask a question and listen to the audio response.
 
 4. **Explain Images**  
-   - Upload an image URL and type "explain image" to get a detailed description.
+   - Upload an image URL and type anything like "explain image" to get a detailed description.
 
 5. **Save Conversations**  
    - Use the "Save Chat" option to store your conversations.  
@@ -65,7 +65,7 @@ Watch our video tutorial to see AI Chat in action:
 
 ## Homepage
 
-Visit our official website:  
+Project official website:  
 [AI Chat Homepage](https://aichat.narendradwivedi.org/)
 
 ## Contact
